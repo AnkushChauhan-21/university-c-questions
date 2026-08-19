@@ -1,1 +1,1 @@
-#do coding practice of c and uni question
+# Do coding practice of c and uni question
